@@ -4,13 +4,30 @@
   "description": "Project for FCC implements timestamp microservice",
   "main": "index.js",
   "scripts": {
+    "start" : "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham9411/timestamp-microservice.git"
   },
   "keywords": [
     "time",
     "timestamp",
-    "microservice"
+    "microservice",
+    "free-code-camp"
   ],
+  "engines": {
+    "node": "8.x"
+  },
   "author": "Shubham Pandey",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham9411/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/shubham9411/timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "path" : "0.12.7"
+  }
 }
