@@ -1,0 +1,16 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Project for FCC implements timestamp microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "timestamp",
+    "microservice"
+  ],
+  "author": "Shubham Pandey",
+  "license": "MIT"
+}
