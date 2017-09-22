@@ -7,9 +7,9 @@ User stories:
 * If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 ### Example usage:
-`https://eager-quiver.glitch.me/September%2015,%202017`
+`https://flannel-texture.glitch.me/September%2015,%202017`
 
-`https://eager-quiver.glitch.me/1505495746`
+`https://flannel-texture.glitch.me/1505495746`
 
 ### Example output:
 `{ "unix": 1505495746, "natural": "September 15, 2017" }`
